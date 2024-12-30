@@ -2,6 +2,8 @@
 
 A simple web app for generating AI-powered compliments using [Xenova/distilgpt2](https://huggingface.co/Xenova/distilgpt2). The purpose of this project is to demonstrate running a lightweight language model (LLM) directly in the browser, intended mostly for fun and casual use.
 
+**This page is accessible here: [https://wozniakpl.github.io/ai-compliment-generator/](https://wozniakpl.github.io/ai-compliment-generator/)**
+
 ## How It Works
 1. **Lightweight Model**:
    - The app uses the `distilgpt2` model, a smaller and more efficient version of GPT-2, making it suitable for in-browser execution without heavy resource requirements.
